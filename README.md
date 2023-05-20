@@ -18,7 +18,7 @@ React.js, Redux, node.js, express.js, mongoDB
 # Frontend Live link:
 https://goldstone-xi.vercel.app
 # Backend server link:
-http://localhost:8080
+https://goldserver.onrender.com/
 
 # Some Output ScreenShots:
 ![Screenshot (268)](https://github.com/Pushpendra-1697/goldstone/assets/104748364/3a8f4f0a-fe2a-4afd-9a95-029121259d2e)
