@@ -15,4 +15,7 @@ For Backend
 # Tech Stack:
 React.js, Redux, node.js, express.js, mongoDB
 
+# Frontend Live link:
+https://goldstone-xi.vercel.app
+
 # Some Output ScreenShots:
