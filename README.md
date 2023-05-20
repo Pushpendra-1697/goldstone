@@ -17,5 +17,7 @@ React.js, Redux, node.js, express.js, mongoDB
 
 # Frontend Live link:
 https://goldstone-xi.vercel.app
+# Backend server link:
+http://localhost:8080
 
 # Some Output ScreenShots:
