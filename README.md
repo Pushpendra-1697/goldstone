@@ -12,3 +12,7 @@ For Frontend
 For Backend    
     npm run server
 ```
+# Tech Stack:
+React.js, Redux, node.js, express.js, mongoDB
+
+# Some Output ScreenShots:
